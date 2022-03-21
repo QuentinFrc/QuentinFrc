@@ -1,6 +1,9 @@
 ```javascript
 class Quentin {
-  constructor(defaults = []) {this.quality = "Modest";}
+  constructor(defaults = []) {
+    this.quality = "Modest";
+    this.newInterest = [];
+  }
   
   getSchool() {
     return {
@@ -25,10 +28,18 @@ class Quentin {
     }
     
   getSoftwareUsed() {
-    return ["JetBrains Stuff", "SourceTree", "Figma"]
+    return ["Google Stuff", "JetBrains Stuff", "SourceTree", "Figma"]
     }
+    
+   addInterest(interest) {
+      return this.newInterest.push(interest);
+   }   
 }
 
 
-new Quentin(undefined);
+let qF = new Quentin(undefined);
+
+qF.addInterest("Open Source");
+
+
 ```
