@@ -38,8 +38,5 @@ class Quentin {
 
 
 let qF = new Quentin(undefined);
-
 qF.addInterest("Open Source");
-
-
 ```
