@@ -1,7 +1,7 @@
 ```javascript
 class Quentin {
   constructor() {
-    this.newInterest = [];
+    this.interest = [];
   }
   
   getSchool() {
@@ -31,7 +31,7 @@ class Quentin {
     }
     
    addInterest(interest) {
-      return this.newInterest.push(interest);
+      return this.interest.push(interest);
    }   
 }
 
