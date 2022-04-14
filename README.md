@@ -1,7 +1,6 @@
 ```javascript
 class Quentin {
-  constructor(defaults = []) {
-    this.quality = "Modest";
+  constructor() {
     this.newInterest = [];
   }
   
@@ -37,6 +36,7 @@ class Quentin {
 }
 
 
-let qF = new Quentin(undefined);
+let qF = new Quentin();
 qF.addInterest("Open Source");
+qF.addInterest("Crypto");
 ```
