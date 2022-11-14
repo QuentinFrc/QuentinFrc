@@ -4,7 +4,7 @@
 <h2>Projects</h2>
 
 - [Quick project starter](https://github.com/QuentinFrc/vite-vue-starter)
-- [Locale icons](https://github.com/QuentinFrc/QuentinFrc/edit/main/README.md)
+- [Locale icons](https://github.com/QuentinFrc/locale-icons)
 
 <br>
   
