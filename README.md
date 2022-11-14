@@ -31,10 +31,4 @@
 
 <h2>Interest 🥰</h2>
   
-  💻Web Development
-  
-  🎨UI Design 
-  
-  🪢Blockchain & 🪙Cryptocurrency
-  
-  🕊️Freelance
+  💻Web Development &emsp;    🎨UI Design &emsp;    🪢Blockchain & 🪙Cryptocurrency &emsp;    🕊️Freelance
