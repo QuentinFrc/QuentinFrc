@@ -1,5 +1,9 @@
 <h1> Hi I'm Quentin 👋 </h1>
 
+<p>
+  I'm a French fullstack developer interested in web subjects. <br>
+  Currently working at Sellzone Compagny & studying Efrei Paris Scholl
+</p>
 
 <h2>Projects</h2>
 
