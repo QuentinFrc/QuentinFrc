@@ -6,6 +6,8 @@
 - [Quick project starter](https://github.com/QuentinFrc/QuentinFrc/edit/main/README.md)
 - [Locale icons](https://github.com/QuentinFrc/QuentinFrc/edit/main/README.md)
 
+<br>
+  
 <h2>Techs ⚙️</h2>
 
 <code>PHP</code>
@@ -17,12 +19,15 @@
 <code>C#</code>
 <code>.NET</code>
 
+<br>
 
 <h2>Tools 🛠️</h2>
 
 <code>Intellij</code>
 <code>Figma</code>
 <code>Sourcetree</code>
+
+<br>
 
 <h2>Interest 🥰</h2>
   
