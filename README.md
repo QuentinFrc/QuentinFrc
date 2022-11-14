@@ -1,10 +1,32 @@
 <h1> Hi I'm Quentin 👋 </h1>
 
 
-<h3></h3> 
-<p>French Web Developer, I'm Interested on : </p>
+<h2>Projects</h2>
+
+- [Quick project starter](https://github.com/QuentinFrc/QuentinFrc/edit/main/README.md)
+- [Locale icons](https://github.com/QuentinFrc/QuentinFrc/edit/main/README.md)
+
+<h2>Techs ⚙️</h2>
+
+<code>PHP</code>
+<code>HTML</code>
+<code>SCSS</code>
+<code>JS</code>
+<code>VUEJS</code>
+<code>VITEJS</code>
+<code>C#</code>
+<code>.NET</code>
+
+
+<h2>Tools 🛠️</h2>
+
+<code>Intellij</code>
+<code>Figma</code>
+<code>Sourcetree</code>
+
+<h2>Interest 🥰</h2>
   
-  💻Web
+  💻Web Development
   
   🎨UI Design 
   
