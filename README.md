@@ -18,6 +18,9 @@
 <code>VITEJS</code>
 <code>C#</code>
 <code>.NET</code>
+<code>MYSQL</code>
+<code>MongoDB</code>
+<code>Java</code>
 
 <br>
 
