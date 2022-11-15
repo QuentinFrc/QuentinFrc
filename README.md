@@ -2,7 +2,7 @@
 
 <p>
   I'm a French fullstack developer interested in web subjects. <br>
-  Currently working at Sellzone Compagny & studying at Efrei Paris Scholl
+  Currently working at Sellzone Compagny & studying at Efrei Paris School
 </p>
 
 <h2>Projects</h2>
