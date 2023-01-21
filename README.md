@@ -5,6 +5,8 @@
   Currently working at Sellzone Compagny & studying at Efrei Paris School
 </p>
 
+<br>
+
 <h2>Projects</h2>
 
 - [Quick project starter](https://github.com/QuentinFrc/vite-vue-starter)
