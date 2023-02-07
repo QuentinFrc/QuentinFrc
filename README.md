@@ -16,16 +16,19 @@
   
 <h2>Techs ⚙️</h2>
 
-<code>PHP</code>
 <code>HTML</code>
 <code>SCSS</code>
 <code>JS</code>
+<code>TS</code>
+<code>REACT</code>
+<code>NEXTJS</code>
 <code>VUEJS</code>
 <code>VITEJS</code>
 <code>C#</code>
 <code>.NET</code>
 <code>MYSQL</code>
 <code>MongoDB</code>
+<code>PHP</code>
 <code>Java</code>
 
 <br>
