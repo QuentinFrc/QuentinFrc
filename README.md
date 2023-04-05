@@ -30,6 +30,7 @@
 <code>MongoDB</code>
 <code>PHP</code>
 <code>Java</code>
+<code>Tailwind</code>
 
 <br>
 
