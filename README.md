@@ -1,16 +1,9 @@
 <h1> Hi I'm Quentin 👋 </h1>
 
 <p>
-  I'm a French fullstack developer interested in web subjects. <br>
+  I'm a French Front-end developer interested in web subjects. <br>
   Currently working at Sellzone Compagny & studying at Efrei Paris School
 </p>
-
-<br>
-
-<h2>Projects</h2>
-
-- [Quick project starter](https://github.com/QuentinFrc/vite-vue-starter)
-- [Locale icons](https://github.com/QuentinFrc/locale-icons)
 
 <br>
   
@@ -22,23 +15,9 @@
 <code>TS</code>
 <code>REACT</code>
 <code>NEXTJS</code>
-<code>VUEJS</code>
-<code>VITEJS</code>
-<code>C#</code>
-<code>.NET</code>
 <code>MYSQL</code>
-<code>MongoDB</code>
 <code>PHP</code>
-<code>Java</code>
 <code>Tailwind</code>
-
-<br>
-
-<h2>Tools 🛠️</h2>
-
-<code>Intellij</code>
-<code>Figma</code>
-<code>Sourcetree</code>
 
 <br>
 
