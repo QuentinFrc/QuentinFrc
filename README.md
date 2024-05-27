@@ -2,7 +2,7 @@
 
 <p>
   I'm a French Front-end developer interested in web subjects. <br>
-  Currently working at Sellzone Compagny & studying at Efrei Paris School
+  Studying at Efrei Paris School until 08/2024
 </p>
 
 <br>
@@ -17,7 +17,7 @@
 <code>NEXTJS</code>
 <code>MYSQL</code>
 <code>PHP</code>
-<code>Tailwind</code>
+<code>Tailwind CSS</code>
 
 <br>
 
